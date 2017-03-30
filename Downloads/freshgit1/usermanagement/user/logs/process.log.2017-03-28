@@ -1,0 +1,68 @@
+[2017-03-28 18:50:11,200]  INFO AnnotationConfigApplicationContext:582 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5e8c92f4: startup date [Tue Mar 28 18:50:11 IST 2017]; root of context hierarchy
+[2017-03-28 18:50:11,246]  WARN AnnotationConfigApplicationContext:550 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.cisco.blogger.config.ApplicationConfiguration]; nested exception is java.io.FileNotFoundException: class path resource [application.properties] cannot be opened because it does not exist
+[2017-03-28 18:56:58,240]  INFO AnnotationConfigApplicationContext:582 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5e8c92f4: startup date [Tue Mar 28 18:56:58 IST 2017]; root of context hierarchy
+[2017-03-28 18:56:58,285]  WARN AnnotationConfigApplicationContext:550 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.cisco.blogger.config.ApplicationConfiguration]; nested exception is java.io.FileNotFoundException: class path resource [application.properties] cannot be opened because it does not exist
+[2017-03-28 18:57:27,160]  INFO AnnotationConfigApplicationContext:582 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5e8c92f4: startup date [Tue Mar 28 18:57:27 IST 2017]; root of context hierarchy
+[2017-03-28 18:57:27,205]  WARN AnnotationConfigApplicationContext:550 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.cisco.blogger.config.ApplicationConfiguration]; nested exception is java.io.FileNotFoundException: class path resource [application.properties] cannot be opened because it does not exist
+[2017-03-28 18:59:12,171]  INFO AnnotationConfigApplicationContext:582 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5e8c92f4: startup date [Tue Mar 28 18:59:12 IST 2017]; root of context hierarchy
+[2017-03-28 18:59:12,212]  WARN AnnotationConfigApplicationContext:550 - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.cisco.blogger.config.ApplicationConfiguration]; nested exception is java.io.FileNotFoundException: class path resource [application.properties] cannot be opened because it does not exist
+[2017-03-28 18:59:39,555]  INFO AnnotationConfigApplicationContext:582 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5e8c92f4: startup date [Tue Mar 28 18:59:39 IST 2017]; root of context hierarchy
+[2017-03-28 18:59:40,100]  INFO cluster:71 - Cluster created with settings {hosts=[10.106.9.90:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+[2017-03-28 18:59:40,274]  INFO Version:30 - HV000001: Hibernate Validator null
+[2017-03-28 18:59:40,350]  INFO connection:71 - Opened connection [connectionId{localValue:1, serverValue:1}] to 10.106.9.90:27017
+[2017-03-28 18:59:40,358]  INFO cluster:71 - Monitor thread successfully connected to server with description ServerDescription{address=10.106.9.90:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 2]}, minWireVersion=0, maxWireVersion=5, maxDocumentSize=16777216, roundTripTimeNanos=6016793}
+[2017-03-28 20:12:13,040]  INFO AnnotationConfigApplicationContext:582 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@22927a81: startup date [Tue Mar 28 20:12:13 IST 2017]; root of context hierarchy
+[2017-03-28 20:12:13,517]  INFO cluster:71 - Cluster created with settings {hosts=[10.106.9.90:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+[2017-03-28 20:12:13,648]  INFO connection:71 - Opened connection [connectionId{localValue:1, serverValue:5}] to 10.106.9.90:27017
+[2017-03-28 20:12:13,656]  INFO cluster:71 - Monitor thread successfully connected to server with description ServerDescription{address=10.106.9.90:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 2]}, minWireVersion=0, maxWireVersion=5, maxDocumentSize=16777216, roundTripTimeNanos=6691687}
+[2017-03-28 20:12:13,666]  INFO Version:30 - HV000001: Hibernate Validator null
+[2017-03-28 20:35:57,874]  INFO AnnotationConfigApplicationContext:582 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5e8c92f4: startup date [Tue Mar 28 20:35:57 IST 2017]; root of context hierarchy
+[2017-03-28 20:35:58,375]  INFO cluster:71 - Cluster created with settings {hosts=[10.106.9.90:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+[2017-03-28 20:35:58,505]  INFO connection:71 - Opened connection [connectionId{localValue:1, serverValue:7}] to 10.106.9.90:27017
+[2017-03-28 20:35:58,512]  INFO cluster:71 - Monitor thread successfully connected to server with description ServerDescription{address=10.106.9.90:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 2]}, minWireVersion=0, maxWireVersion=5, maxDocumentSize=16777216, roundTripTimeNanos=5783442}
+[2017-03-28 20:35:58,524]  INFO Version:30 - HV000001: Hibernate Validator null
+[2017-03-28 20:45:49,092]  INFO AnnotationConfigApplicationContext:582 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5e8c92f4: startup date [Tue Mar 28 20:45:49 IST 2017]; root of context hierarchy
+[2017-03-28 20:45:49,588]  INFO cluster:71 - Cluster created with settings {hosts=[10.106.9.90:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+[2017-03-28 20:45:49,718]  INFO connection:71 - Opened connection [connectionId{localValue:1, serverValue:10}] to 10.106.9.90:27017
+[2017-03-28 20:45:49,725]  INFO cluster:71 - Monitor thread successfully connected to server with description ServerDescription{address=10.106.9.90:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 2]}, minWireVersion=0, maxWireVersion=5, maxDocumentSize=16777216, roundTripTimeNanos=6015182}
+[2017-03-28 20:45:49,738]  INFO Version:30 - HV000001: Hibernate Validator null
+[2017-03-28 21:19:40,467]  INFO AnnotationConfigApplicationContext:582 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5e8c92f4: startup date [Tue Mar 28 21:19:40 IST 2017]; root of context hierarchy
+[2017-03-28 21:19:41,117]  INFO cluster:71 - Cluster created with settings {hosts=[10.106.9.90:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+[2017-03-28 21:19:41,304]  INFO connection:71 - Opened connection [connectionId{localValue:1, serverValue:12}] to 10.106.9.90:27017
+[2017-03-28 21:19:41,315]  INFO cluster:71 - Monitor thread successfully connected to server with description ServerDescription{address=10.106.9.90:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 2]}, minWireVersion=0, maxWireVersion=5, maxDocumentSize=16777216, roundTripTimeNanos=9646932}
+[2017-03-28 21:19:41,317]  INFO Version:30 - HV000001: Hibernate Validator null
+[2017-03-28 21:26:11,478]  INFO AnnotationConfigApplicationContext:582 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5e8c92f4: startup date [Tue Mar 28 21:26:11 IST 2017]; root of context hierarchy
+[2017-03-28 21:26:11,980]  INFO cluster:71 - Cluster created with settings {hosts=[10.106.9.90:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+[2017-03-28 21:26:12,134]  INFO Version:30 - HV000001: Hibernate Validator null
+[2017-03-28 21:26:12,169]  INFO connection:71 - Opened connection [connectionId{localValue:1, serverValue:15}] to 10.106.9.90:27017
+[2017-03-28 21:26:12,462]  INFO cluster:71 - Monitor thread successfully connected to server with description ServerDescription{address=10.106.9.90:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 2]}, minWireVersion=0, maxWireVersion=5, maxDocumentSize=16777216, roundTripTimeNanos=292193753}
+[2017-03-28 21:27:16,103]  INFO DatabaseVerticle:64 - messages 
+[2017-03-28 21:27:19,257]  INFO DatabaseVerticle:64 - messages 
+[2017-03-28 21:44:20,033]  INFO AnnotationConfigApplicationContext:582 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5e8c92f4: startup date [Tue Mar 28 21:44:20 IST 2017]; root of context hierarchy
+[2017-03-28 21:44:20,524]  INFO cluster:71 - Cluster created with settings {hosts=[10.106.9.90:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+[2017-03-28 21:44:20,643]  INFO connection:71 - Opened connection [connectionId{localValue:1, serverValue:18}] to 10.106.9.90:27017
+[2017-03-28 21:44:20,653]  INFO cluster:71 - Monitor thread successfully connected to server with description ServerDescription{address=10.106.9.90:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 2]}, minWireVersion=0, maxWireVersion=5, maxDocumentSize=16777216, roundTripTimeNanos=8674706}
+[2017-03-28 21:44:20,675]  INFO Version:30 - HV000001: Hibernate Validator null
+[2017-03-28 21:45:30,304]  INFO AnnotationConfigApplicationContext:582 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5e8c92f4: startup date [Tue Mar 28 21:45:30 IST 2017]; root of context hierarchy
+[2017-03-28 21:45:30,794]  INFO cluster:71 - Cluster created with settings {hosts=[10.106.9.90:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+[2017-03-28 21:45:30,943]  INFO Version:30 - HV000001: Hibernate Validator null
+[2017-03-28 21:45:31,048]  INFO connection:71 - Opened connection [connectionId{localValue:1, serverValue:19}] to 10.106.9.90:27017
+[2017-03-28 21:45:31,054]  INFO cluster:71 - Monitor thread successfully connected to server with description ServerDescription{address=10.106.9.90:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 2]}, minWireVersion=0, maxWireVersion=5, maxDocumentSize=16777216, roundTripTimeNanos=5671540}
+[2017-03-28 21:50:03,475]  INFO DatabaseVerticle:62 - messages 
+[2017-03-28 21:50:03,476]  INFO UserDao:36 - creating user
+[2017-03-28 21:50:03,523]  INFO connection:71 - Opened connection [connectionId{localValue:2, serverValue:22}] to 10.106.9.90:27017
+[2017-03-28 21:52:08,354]  INFO AnnotationConfigApplicationContext:582 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5e8c92f4: startup date [Tue Mar 28 21:52:08 IST 2017]; root of context hierarchy
+[2017-03-28 21:52:08,852]  INFO cluster:71 - Cluster created with settings {hosts=[10.106.9.90:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+[2017-03-28 21:52:08,980]  INFO connection:71 - Opened connection [connectionId{localValue:1, serverValue:24}] to 10.106.9.90:27017
+[2017-03-28 21:52:08,989]  INFO cluster:71 - Monitor thread successfully connected to server with description ServerDescription{address=10.106.9.90:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 2]}, minWireVersion=0, maxWireVersion=5, maxDocumentSize=16777216, roundTripTimeNanos=7638743}
+[2017-03-28 21:52:09,003]  INFO Version:30 - HV000001: Hibernate Validator null
+[2017-03-28 21:52:26,598]  INFO connection:71 - Opened connection [connectionId{localValue:2, serverValue:25}] to 10.106.9.90:27017
+[2017-03-28 21:52:26,629]  INFO UserVerticle:57 - userOptional-->Optional[User [firstName=bharathi, lastName=perumal, userName=bharathi, password=bharathi, email=bhrthp@yahoocom, phoneNumber=9632042443]]
+[2017-03-28 21:52:26,629]  INFO UserVerticle:64 - loginstatustrue
+[2017-03-28 21:52:26,649]  INFO UserVerticle:74 - compactJws-->eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJiaGFyYXRoaSIsImV4cCI6MTQ5MDcxODQ0Nn0.rmWQCXaaXLEvd3MuHgFxBlh_4B5sy2_wqasWWQtuKxAU26yMFMGgfiPc4iZVS84CTtCz-mbr-CIL7nyISbeBcw
+[2017-03-28 21:52:26,655]  INFO UserVerticle:77 - userparsed-->bharathi
+[2017-03-28 21:52:26,869]  INFO UserVerticle:94 - userparsed-->bharathi
+[2017-03-28 21:52:26,871]  INFO UserVerticle:94 - userparsed-->bharathi
+[2017-03-28 21:52:27,119]  INFO UserVerticle:94 - userparsed-->bharathi
+[2017-03-28 21:52:27,122]  INFO UserVerticle:94 - userparsed-->bharathi
+[2017-03-28 21:52:27,167]  INFO UserVerticle:94 - userparsed-->bharathi

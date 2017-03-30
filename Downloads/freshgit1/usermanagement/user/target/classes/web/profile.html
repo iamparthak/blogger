@@ -1,0 +1,51 @@
+<td valign="top" width='50%'>
+	<h2>Your Profile</h2>
+	<form id="profile">
+	<table>
+		<tr>
+			<td>First Name</td>
+			<td><input value='' name="firstName" id="firstName" ng-model="user.firstName" required ></td>
+		</tr>
+		<tr>
+			<td>Last Name</td>
+			<td><input value='' name="lastName" id="lastName" ng-model="user.lastName" required ></td>
+		</tr>
+		<tr>
+			<td>User Name</td>
+			<td><input value='' name="userName" id="userName" ng-model="user.userName" disabled="disabled"></td>
+		</tr>
+		<tr>
+			<td>Password</td>
+			<td><input type='password' name="password" id="password" ng-model="user.password" required ></td>
+		</tr>
+		<tr>
+			<td>Confirm Password</td>
+			<td><input type='password' name="confirm_password" ng-model="confirm_password" required></td>
+		</tr>
+		<tr>
+			<td>Email</td>
+			<td><input type="email" value='adf@adf.com' name="email" id="email" ng-model="user.email" required ></td>
+		</tr>
+		<tr>
+			<td>Phone Number</td>
+			<td><input value='' name="phoneNumber" id="phoneNumber" ng-model="user.phoneNumber" required ></td>
+		</tr>
+		<tr>
+			<td>Areas of Interest</td>
+			<td>
+				<select style="width:200px" name="interest" id="interest" multiple ng-model="user.interest" required >
+					<option ng-repeat="tag in tags" value="{{tag}}">{{tag}}</option>
+					<option>Technology</option>
+					<option>Movies</option>
+					<option>Sports</option>
+				</select>
+			</td>
+		</tr><br/><br/>
+		<tr>
+			<td>
+				<a id="update" href=''  ng-click="updateProfile();"  class="loginButton">Update</a> | <a id="cancel" href=''  ng-click="cancel();"  class="loginButton">Cancel</a>
+			 </td>
+		</tr>
+	</table>
+	</form>
+</td>

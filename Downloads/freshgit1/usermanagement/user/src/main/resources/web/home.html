@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html ng-app="BloggerHome">
+<head>
+<meta charset="ISO-8859-1">
+<title>Blogger</title>
+<script type="text/javascript" src="js/jquery-1.12.4.min.js"></script>
+<script type="text/javascript" src="js/angular.js"></script>
+<script type="text/javascript" src="js/angular-resource.js"></script>
+<script type="text/javascript" src="js/routes.js"></script>
+<script type="text/javascript" src="js/common.js"></script>
+<script type="text/javascript" src="js/tags.js"></script>
+<script type='text/javascript' src="js/sockjs-0.3.4.min.js"></script>
+<script type='text/javascript' src='js/vertx-eventbus.js'></script>
+<script src="js/jquery-ui.min.js"></script>
+
+<link rel="stylesheet" href="css/jquery-ui.min.css">
+<link rel='stylesheet' href='css/blog.css'>
+</head>
+<body ng-controller="BloggerMainController">
+	<h1>Blogs</h1>
+	<hr />
+	<div ng-include="'header.html'"></div>
+	<table class='root'>
+		<tr>
+			<td width="20%" valign="top" ng-include="'favBlogsContainer.html'">
+			</td>
+			<td valign="top" width='50%' ng-view>
+			</td>
+			<td width="30%" valign="top" ng-include="'message.html'"></td>
+		</tr>
+	</table>
+</body>
+</html>
