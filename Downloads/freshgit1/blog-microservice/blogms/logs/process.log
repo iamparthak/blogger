@@ -1,0 +1,2 @@
+[2017-03-30 08:10:26,255]  INFO connection:71 - Opened connection [connectionId{localValue:379, serverValue:34}] to 10.106.9.90:27017
+[2017-03-30 08:10:26,426]  INFO cluster:71 - Monitor thread successfully connected to server with description ServerDescription{address=10.106.9.90:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 2]}, minWireVersion=0, maxWireVersion=5, maxDocumentSize=16777216, roundTripTimeNanos=6448382}

@@ -1,0 +1,293 @@
+[2017-03-28 19:02:24,200]  INFO AnnotationConfigApplicationContext:582 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5e8c92f4: startup date [Tue Mar 28 19:02:24 IST 2017]; root of context hierarchy
+[2017-03-28 19:02:24,708]  INFO cluster:71 - Cluster created with settings {hosts=[10.106.9.90:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+[2017-03-28 19:02:24,861]  INFO Version:30 - HV000001: Hibernate Validator null
+[2017-03-28 19:02:25,142]  INFO connection:71 - Opened connection [connectionId{localValue:1, serverValue:2}] to 10.106.9.90:27017
+[2017-03-28 19:02:25,152]  INFO cluster:71 - Monitor thread successfully connected to server with description ServerDescription{address=10.106.9.90:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 2]}, minWireVersion=0, maxWireVersion=5, maxDocumentSize=16777216, roundTripTimeNanos=8401180}
+[2017-03-28 19:02:31,267]  INFO BlogVerticle:45 - starting...
+[2017-03-28 19:03:10,453]  INFO DatabaseVerticle:65 - karthick
+[2017-03-28 19:03:10,500]  INFO connection:71 - Opened connection [connectionId{localValue:2, serverValue:3}] to 10.106.9.90:27017
+[2017-03-28 19:03:10,587]  INFO BlogDao:97 - {"tags":["java","Thanks blog","sdsad","test","yui","krishna","vertx","HTML","Java","J2EE"]}
+[2017-03-28 19:03:10,588]  INFO DatabaseVerticle:67 - {
+  "tags" : [ "java", "Thanks blog", "sdsad", "test", "yui", "krishna", "vertx", "HTML", "Java", "J2EE" ]
+}
+[2017-03-28 19:03:57,520]  INFO BlogVerticle:59 - Registration request received.
+[2017-03-28 20:10:23,276]  INFO AnnotationConfigApplicationContext:582 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@22927a81: startup date [Tue Mar 28 20:10:23 IST 2017]; root of context hierarchy
+[2017-03-28 20:10:23,780]  INFO cluster:71 - Cluster created with settings {hosts=[10.106.9.90:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+[2017-03-28 20:10:23,928]  INFO Version:30 - HV000001: Hibernate Validator null
+[2017-03-28 20:10:24,086]  INFO connection:71 - Opened connection [connectionId{localValue:1, serverValue:4}] to 10.106.9.90:27017
+[2017-03-28 20:10:24,093]  INFO cluster:71 - Monitor thread successfully connected to server with description ServerDescription{address=10.106.9.90:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 2]}, minWireVersion=0, maxWireVersion=5, maxDocumentSize=16777216, roundTripTimeNanos=6101712}
+[2017-03-28 20:10:24,156]  INFO BlogVerticle:45 - starting...
+[2017-03-28 20:12:56,598]  INFO DatabaseVerticle:65 - karthick
+[2017-03-28 20:12:56,728]  INFO connection:71 - Opened connection [connectionId{localValue:2, serverValue:6}] to 10.106.9.90:27017
+[2017-03-28 20:12:56,999]  INFO BlogDao:97 - {"tags":["java","Thanks blog","sdsad","test","yui","krishna","vertx","HTML","Java","J2EE"]}
+[2017-03-28 20:12:57,000]  INFO DatabaseVerticle:67 - {
+  "tags" : [ "java", "Thanks blog", "sdsad", "test", "yui", "krishna", "vertx", "HTML", "Java", "J2EE" ]
+}
+[2017-03-28 20:13:25,008]  INFO BlogVerticle:59 - Registration request received.
+[2017-03-28 20:36:30,648]  INFO AnnotationConfigApplicationContext:582 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5e8c92f4: startup date [Tue Mar 28 20:36:30 IST 2017]; root of context hierarchy
+[2017-03-28 20:36:31,157]  INFO cluster:71 - Cluster created with settings {hosts=[10.106.9.90:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+[2017-03-28 20:36:31,306]  INFO Version:30 - HV000001: Hibernate Validator null
+[2017-03-28 20:36:31,380]  INFO connection:71 - Opened connection [connectionId{localValue:1, serverValue:8}] to 10.106.9.90:27017
+[2017-03-28 20:36:31,389]  INFO cluster:71 - Monitor thread successfully connected to server with description ServerDescription{address=10.106.9.90:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 2]}, minWireVersion=0, maxWireVersion=5, maxDocumentSize=16777216, roundTripTimeNanos=6927489}
+[2017-03-28 20:36:37,746]  INFO BlogVerticle:45 - starting...
+[2017-03-28 20:37:41,362]  INFO DatabaseVerticle:65 - karthick
+[2017-03-28 20:37:41,411]  INFO connection:71 - Opened connection [connectionId{localValue:2, serverValue:9}] to 10.106.9.90:27017
+[2017-03-28 20:37:41,448]  INFO BlogDao:97 - {"tags":["java","Thanks blog","sdsad","test","yui","krishna","vertx","HTML","Java","J2EE"]}
+[2017-03-28 20:37:41,448]  INFO DatabaseVerticle:67 - {
+  "tags" : [ "java", "Thanks blog", "sdsad", "test", "yui", "krishna", "vertx", "HTML", "Java", "J2EE" ]
+}
+[2017-03-28 20:38:10,373]  INFO BlogVerticle:59 - Registration request received.
+[2017-03-28 20:46:19,545]  INFO AnnotationConfigApplicationContext:582 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5e8c92f4: startup date [Tue Mar 28 20:46:19 IST 2017]; root of context hierarchy
+[2017-03-28 20:46:20,031]  INFO cluster:71 - Cluster created with settings {hosts=[10.106.9.90:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+[2017-03-28 20:46:20,164]  INFO connection:71 - Opened connection [connectionId{localValue:1, serverValue:11}] to 10.106.9.90:27017
+[2017-03-28 20:46:20,170]  INFO cluster:71 - Monitor thread successfully connected to server with description ServerDescription{address=10.106.9.90:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 2]}, minWireVersion=0, maxWireVersion=5, maxDocumentSize=16777216, roundTripTimeNanos=5868391}
+[2017-03-28 20:46:20,182]  INFO Version:30 - HV000001: Hibernate Validator null
+[2017-03-28 20:46:26,596]  INFO BlogVerticle:45 - starting...
+[2017-03-28 20:46:42,751]  INFO BlogVerticle:59 - Registration request received.
+[2017-03-28 21:20:14,295]  INFO AnnotationConfigApplicationContext:582 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5e8c92f4: startup date [Tue Mar 28 21:20:14 IST 2017]; root of context hierarchy
+[2017-03-28 21:20:14,792]  INFO cluster:71 - Cluster created with settings {hosts=[10.106.9.90:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+[2017-03-28 21:20:14,924]  INFO connection:71 - Opened connection [connectionId{localValue:1, serverValue:13}] to 10.106.9.90:27017
+[2017-03-28 21:20:14,932]  INFO cluster:71 - Monitor thread successfully connected to server with description ServerDescription{address=10.106.9.90:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 2]}, minWireVersion=0, maxWireVersion=5, maxDocumentSize=16777216, roundTripTimeNanos=6484701}
+[2017-03-28 21:20:14,939]  INFO Version:30 - HV000001: Hibernate Validator null
+[2017-03-28 21:20:24,127]  INFO BlogVerticle:45 - starting...
+[2017-03-28 21:21:31,359]  INFO DatabaseVerticle:65 - karthick
+[2017-03-28 21:21:31,416]  INFO connection:71 - Opened connection [connectionId{localValue:2, serverValue:14}] to 10.106.9.90:27017
+[2017-03-28 21:21:31,451]  INFO BlogDao:97 - {"tags":["java","Thanks blog","sdsad","test","yui","krishna","vertx","HTML","Java","J2EE"]}
+[2017-03-28 21:21:31,452]  INFO DatabaseVerticle:67 - {
+  "tags" : [ "java", "Thanks blog", "sdsad", "test", "yui", "krishna", "vertx", "HTML", "Java", "J2EE" ]
+}
+[2017-03-28 21:22:07,604]  INFO BlogVerticle:59 - Registration request received.
+[2017-03-28 21:24:12,198]  INFO BlogVerticle:59 - Registration request received.
+[2017-03-28 21:26:19,189]  INFO AnnotationConfigApplicationContext:582 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5e8c92f4: startup date [Tue Mar 28 21:26:19 IST 2017]; root of context hierarchy
+[2017-03-28 21:26:19,714]  INFO cluster:71 - Cluster created with settings {hosts=[10.106.9.90:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+[2017-03-28 21:26:19,861]  INFO Version:30 - HV000001: Hibernate Validator null
+[2017-03-28 21:26:20,049]  INFO connection:71 - Opened connection [connectionId{localValue:1, serverValue:16}] to 10.106.9.90:27017
+[2017-03-28 21:26:20,184]  INFO cluster:71 - Monitor thread successfully connected to server with description ServerDescription{address=10.106.9.90:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 2]}, minWireVersion=0, maxWireVersion=5, maxDocumentSize=16777216, roundTripTimeNanos=134110656}
+[2017-03-28 21:26:29,085]  INFO BlogVerticle:45 - starting...
+[2017-03-28 21:26:49,747]  INFO DatabaseVerticle:65 - karthick
+[2017-03-28 21:26:49,795]  INFO connection:71 - Opened connection [connectionId{localValue:2, serverValue:17}] to 10.106.9.90:27017
+[2017-03-28 21:26:49,951]  INFO BlogDao:97 - {"tags":["java","Thanks blog","sdsad","test","yui","krishna","vertx","HTML","Java","J2EE"]}
+[2017-03-28 21:26:49,952]  INFO DatabaseVerticle:67 - {
+  "tags" : [ "java", "Thanks blog", "sdsad", "test", "yui", "krishna", "vertx", "HTML", "Java", "J2EE" ]
+}
+[2017-03-28 21:27:15,982]  INFO BlogVerticle:59 - Registration request received.
+[2017-03-28 21:27:19,253]  INFO BlogVerticle:59 - Registration request received.
+[2017-03-28 21:45:38,452]  INFO AnnotationConfigApplicationContext:582 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5e8c92f4: startup date [Tue Mar 28 21:45:38 IST 2017]; root of context hierarchy
+[2017-03-28 21:45:38,942]  INFO cluster:71 - Cluster created with settings {hosts=[10.106.9.90:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+[2017-03-28 21:45:39,072]  INFO connection:71 - Opened connection [connectionId{localValue:1, serverValue:20}] to 10.106.9.90:27017
+[2017-03-28 21:45:39,079]  INFO cluster:71 - Monitor thread successfully connected to server with description ServerDescription{address=10.106.9.90:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 2]}, minWireVersion=0, maxWireVersion=5, maxDocumentSize=16777216, roundTripTimeNanos=5901656}
+[2017-03-28 21:45:39,092]  INFO Version:30 - HV000001: Hibernate Validator null
+[2017-03-28 21:45:48,319]  INFO BlogVerticle:45 - starting...
+[2017-03-28 21:49:33,598]  INFO DatabaseVerticle:65 - karthick
+[2017-03-28 21:49:33,649]  INFO connection:71 - Opened connection [connectionId{localValue:2, serverValue:21}] to 10.106.9.90:27017
+[2017-03-28 21:49:33,684]  INFO BlogDao:97 - {"tags":["java","Thanks blog","sdsad","test","yui","krishna","vertx","HTML","Java","J2EE"]}
+[2017-03-28 21:49:33,685]  INFO DatabaseVerticle:67 - {
+  "tags" : [ "java", "Thanks blog", "sdsad", "test", "yui", "krishna", "vertx", "HTML", "Java", "J2EE" ]
+}
+[2017-03-28 21:50:03,358]  INFO BlogVerticle:59 - Registration request received.
+[2017-03-28 21:50:56,756]  INFO BlogVerticle:71 - userNamebharathi
+[2017-03-28 21:51:01,921]  INFO BlogVerticle:71 - userNamebharathi
+[2017-03-28 21:52:01,933]  INFO AnnotationConfigApplicationContext:582 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@5e8c92f4: startup date [Tue Mar 28 21:52:01 IST 2017]; root of context hierarchy
+[2017-03-28 21:52:02,454]  INFO cluster:71 - Cluster created with settings {hosts=[10.106.9.90:27017], mode=SINGLE, requiredClusterType=UNKNOWN, serverSelectionTimeout='30000 ms', maxWaitQueueSize=500}
+[2017-03-28 21:52:02,605]  INFO Version:30 - HV000001: Hibernate Validator null
+[2017-03-28 21:52:02,762]  INFO connection:71 - Opened connection [connectionId{localValue:1, serverValue:23}] to 10.106.9.90:27017
+[2017-03-28 21:52:02,771]  INFO cluster:71 - Monitor thread successfully connected to server with description ServerDescription{address=10.106.9.90:27017, type=STANDALONE, state=CONNECTED, ok=true, version=ServerVersion{versionList=[3, 4, 2]}, minWireVersion=0, maxWireVersion=5, maxDocumentSize=16777216, roundTripTimeNanos=8493991}
+[2017-03-28 21:52:04,836]  INFO BlogVerticle:45 - starting...
+[2017-03-28 21:52:26,674]  INFO BlogVerticle:71 - userNamebharathi
+[2017-03-28 21:52:26,864]  INFO BlogVerticle:83 - Validating token:
+[2017-03-28 21:52:26,866]  INFO BlogVerticle:83 - Validating token:
+[2017-03-28 21:52:26,896]  INFO BlogVerticle:91 - Token validated successfully.Proceeding to next route
+[2017-03-28 21:52:26,898]  INFO BlogVerticle:91 - Token validated successfully.Proceeding to next route
+[2017-03-28 21:52:27,010]  INFO connection:71 - Opened connection [connectionId{localValue:2, serverValue:26}] to 10.106.9.90:27017
+[2017-03-28 21:52:27,036]  INFO DatabaseVerticle:73 - [ ]
+[2017-03-28 21:52:27,058]  INFO DatabaseVerticle:65 - karthick
+[2017-03-28 21:52:27,078]  INFO BlogDao:97 - {"tags":["java","Thanks blog","sdsad","test","yui","krishna","vertx","HTML","Java","J2EE"]}
+[2017-03-28 21:52:27,079]  INFO DatabaseVerticle:67 - {
+  "tags" : [ "java", "Thanks blog", "sdsad", "test", "yui", "krishna", "vertx", "HTML", "Java", "J2EE" ]
+}
+[2017-03-28 21:52:27,116]  INFO BlogVerticle:83 - Validating token:
+[2017-03-28 21:52:27,118]  INFO BlogVerticle:83 - Validating token:
+[2017-03-28 21:52:27,153]  INFO BlogVerticle:91 - Token validated successfully.Proceeding to next route
+[2017-03-28 21:52:27,154]  INFO BlogVerticle:91 - Token validated successfully.Proceeding to next route
+[2017-03-28 21:52:27,163]  INFO BlogVerticle:83 - Validating token:
+[2017-03-28 21:52:27,168]  INFO BlogVerticle:91 - Token validated successfully.Proceeding to next route
+[2017-03-28 21:52:27,182]  INFO DatabaseVerticle:60 - [ {
+  "_id" : "58be378c7f8909f77a3335ff",
+  "title" : "New Post",
+  "blogContent" : "My Java post",
+  "comments" : null,
+  "tags" : [ "java" ],
+  "authorizedUsers" : null,
+  "createdDate" : 1488861068085,
+  "createdBy" : "admin",
+  "usersMarkedFavourites" : [ "kayaravi" ]
+}, {
+  "_id" : "58bc4db982a0157c4c48918e",
+  "title" : "THanks",
+  "blogContent" : "Hi",
+  "comments" : [ {
+    "commentBy" : "kpitchia",
+    "commentDate" : 1488861048836,
+    "comment" : "ewere"
+  } ],
+  "tags" : [ "Thanks blog" ],
+  "authorizedUsers" : null,
+  "createdDate" : 1488735673931,
+  "createdBy" : "admin",
+  "usersMarkedFavourites" : null
+}, {
+  "_id" : "58b31a2f7aa5730bc4ac55c8",
+  "title" : "test",
+  "blogContent" : "asdsad",
+  "comments" : [ {
+    "commentBy" : "kpitchia",
+    "commentDate" : 1488735561673,
+    "comment" : "Test"
+  } ],
+  "tags" : [ "sdsad" ],
+  "authorizedUsers" : null,
+  "createdDate" : 1488132655484,
+  "createdBy" : "admin",
+  "usersMarkedFavourites" : [ "kpitchia" ]
+}, {
+  "_id" : "58b317e57aa57304c628f0f4",
+  "title" : "tetsing",
+  "blogContent" : "Hi this is testing yui",
+  "comments" : null,
+  "tags" : [ "test", "yui" ],
+  "authorizedUsers" : null,
+  "createdDate" : 1488132069290,
+  "createdBy" : "admin",
+  "usersMarkedFavourites" : null
+}, {
+  "_id" : "589d448936069495b0a33484",
+  "title" : "Krishna blog",
+  "blogContent" : "this is test blog",
+  "comments" : [ {
+    "commentBy" : "kpitchia",
+    "commentDate" : 1486713941239,
+    "comment" : "test"
+  }, {
+    "commentBy" : "kpitchia",
+    "commentDate" : 1486713959040,
+    "comment" : "Karthick"
+  }, {
+    "commentBy" : "kpitchia",
+    "commentDate" : 1487237376275,
+    "comment" : "Hello"
+  }, {
+    "commentBy" : "kpitchia",
+    "commentDate" : 1487243808598,
+    "comment" : "test"
+  }, {
+    "commentBy" : "kpitchia",
+    "commentDate" : 1487252577406,
+    "comment" : "test1"
+  }, {
+    "commentBy" : "kpitchia",
+    "commentDate" : 1487326332362,
+    "comment" : "test"
+  }, {
+    "commentBy" : "kpitchia",
+    "commentDate" : 1487326337609,
+    "comment" : "erere"
+  }, {
+    "commentBy" : "kpitchia",
+    "commentDate" : 1487757685105,
+    "comment" : "hiiiii"
+  }, {
+    "commentBy" : "kpitchia",
+    "commentDate" : 1488735578774,
+    "comment" : "Karthick"
+  } ],
+  "tags" : [ "krishna" ],
+  "authorizedUsers" : null,
+  "createdDate" : 1486701705026,
+  "createdBy" : "admin",
+  "usersMarkedFavourites" : [ "kpitchia" ]
+}, {
+  "_id" : "589d446336069495b0a33483",
+  "title" : "vertx introduction",
+  "blogContent" : "this blog is about vertx",
+  "comments" : null,
+  "tags" : [ "vertx" ],
+  "authorizedUsers" : null,
+  "createdDate" : 1486701667971,
+  "createdBy" : "admin",
+  "usersMarkedFavourites" : [ "kpitchia" ]
+}, {
+  "_id" : "589d3de436069495b0a3347e",
+  "title" : "HTML",
+  "blogContent" : "This blog is about html",
+  "comments" : null,
+  "tags" : [ "HTML" ],
+  "authorizedUsers" : null,
+  "createdDate" : 1486700004077,
+  "createdBy" : "admin",
+  "usersMarkedFavourites" : [ "kpitchia", "test1" ]
+}, {
+  "_id" : "589d3dce36069495b0a3347d",
+  "title" : "Java",
+  "blogContent" : "This blog is about Java",
+  "comments" : [ {
+    "commentBy" : "kpitchia",
+    "commentDate" : 1488171295991,
+    "comment" : "post comment"
+  } ],
+  "tags" : [ "Java" ],
+  "authorizedUsers" : null,
+  "createdDate" : 1486699982303,
+  "createdBy" : "admin",
+  "usersMarkedFavourites" : null
+}, {
+  "_id" : "589d3dbc36069495b0a3347c",
+  "title" : "servlets and JSP",
+  "blogContent" : "This blog is about jsp and servlet",
+  "comments" : [ {
+    "commentBy" : "kpitchia",
+    "commentDate" : 1487758578151,
+    "comment" : "test"
+  }, {
+    "commentBy" : "kpitchia",
+    "commentDate" : 1487758639089,
+    "comment" : "test"
+  }, {
+    "commentBy" : "kpitchia",
+    "commentDate" : 1487758779394,
+    "comment" : "testtt"
+  }, {
+    "commentBy" : "kpitchia",
+    "commentDate" : 1487759254360,
+    "comment" : "ret"
+  }, {
+    "commentBy" : "kpitchia",
+    "commentDate" : 1487760036996,
+    "comment" : "Thanks\n"
+  }, {
+    "commentBy" : "kpitchia",
+    "commentDate" : 1487760051843,
+    "comment" : "lets do it"
+  } ],
+  "tags" : [ "J2EE" ],
+  "authorizedUsers" : null,
+  "createdDate" : 1486699964680,
+  "createdBy" : "admin",
+  "usersMarkedFavourites" : null
+} ]
+[2017-03-28 21:52:27,194]  INFO DatabaseVerticle:73 - [ ]
+[2017-03-28 21:54:02,908]  INFO cluster:76 - Exception in monitor thread while connecting to server 10.106.9.90:27017
+com.mongodb.MongoSocketOpenException: Exception opening socket
+	at com.mongodb.connection.SocketStream.open(SocketStream.java:63)
+	at com.mongodb.connection.InternalStreamConnection.open(InternalStreamConnection.java:115)
+	at com.mongodb.connection.DefaultServerMonitor$ServerMonitorRunnable.run(DefaultServerMonitor.java:127)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.net.SocketTimeoutException: connect timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.mongodb.connection.SocketStreamHelper.initialize(SocketStreamHelper.java:57)
+	at com.mongodb.connection.SocketStream.open(SocketStream.java:58)
+	... 3 more

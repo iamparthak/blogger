@@ -1,0 +1,9 @@
+<td valign="top" width='50%'>
+	<h2>New Post</h2>
+	<p>Title <input placeholder='Title' id="title"  value="" ng-model="blog.title" required="required"></p>
+	<p>Tags <input placeholder='Tags' id="tags" value="" ng-model="blog.tags" required="required"></p>
+	Post<br/><textarea rows="20" cols="80" id="blogContent" value="" ng-model="blog.blogContent" required="required"></textarea><br/><br/>
+	<a id="save" href="" ng-click="createBlog();" class="loginButton">Save</a> 
+	<a id="cancel" href="" ng-click="cancel();"  class="loginButton">Cancel</a>
+</td>
+			
